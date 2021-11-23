@@ -8,5 +8,5 @@ In the direction of predicting heart disease, Machine Learning can present remar
 In this analysis, the presence of heart disease is predicted by employing Support VectorMachine (SVM), Multinomial Naïve Bayes, Logistic Regression (LR), Decision Tree (DT) & Random Forest (RF), Ensemble combination rules i.e., Majority Voting & Weighted Average Voting and Ensemble classifiers i.e., Bagging, Adaptive Boosting & Gradient Boosting.Parameters such as Accuracy, Precision, Recall and F1-score were estimated to analyze the performance and a comparative study of these classifiers was carried out.
 
 ## Python Libraries
-Python libraries are a collection of functions and methods that allows us to perform many actions without writing the code.
+Python libraries are a collection of functions and methods that allows us to perform many actions without writing the code.<br>
 **NumPy**: NumPy is a very popular python library for large multi-dimensional array and matrix processing, with the help of a large collection of high-level mathematical functions. It is very useful for fundamental scientific computations in Machine Learning.<br /><br />
