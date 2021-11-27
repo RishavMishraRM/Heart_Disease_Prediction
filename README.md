@@ -15,3 +15,7 @@ Python libraries are a collection of functions and methods that allows us to per
 **Scikit-learn**: Scikit-learn is one of the most popular ML libraries for classical ML algorithms. Scikit-learn supports most of the supervised and unsupervised learning algorithms. Scikit-learncan also be used for data-mining and data-analysis, which makes it a great tool who is starting out with ML.<br /><br />
 **Seaborn**: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.<br /><br />
 **train_test_split**: It splits the dataset into a training set and a test set.<br />
+
+
+## Dataset
+The Heart Disease dataset has been taken from Kaggle. This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them.
