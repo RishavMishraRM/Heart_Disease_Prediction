@@ -11,3 +11,4 @@ In this analysis, the presence of heart disease is predicted by employing Suppor
 Python libraries are a collection of functions and methods that allows us to perform many actions without writing the code.<br>
 **NumPy**: NumPy is a very popular python library for large multi-dimensional array and matrix processing, with the help of a large collection of high-level mathematical functions. It is very useful for fundamental scientific computations in Machine Learning.<br /><br />
 **Pandas**: Pandas is a popular Python library for data analysis. Pandas is developed specifically for data extraction and preparation.<br /><br />
+**Matplotlib**: Matpoltlib is a very popular Python library for data visualization. It provides various kinds of graphs and plots for data visualization, viz., histogram, error charts, bar chats, etc.<br /><br />
