@@ -24,3 +24,7 @@ Data Source: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Hea
 *age*: age in years<br />
 *sex*: (1 = male; 0 = female)<br />
 *cp*: chest pain type<br />
+*trestbps*: resting blood pressure (in mm Hg on admission to the hospital)<br />
+
+
+
