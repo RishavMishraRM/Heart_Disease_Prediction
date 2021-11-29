@@ -28,6 +28,7 @@ Data Source: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Hea
 *chol*: serum cholestoral in mg/dl<br />
 *fbs*: (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)<br />
 *restecg*: resting electrocardiographic results<br />
+*thalach*: maximum heart rate achieved<br />
 
 
 
