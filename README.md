@@ -26,6 +26,7 @@ Data Source: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Hea
 *cp*: chest pain type<br />
 *trestbps*: resting blood pressure (in mm Hg on admission to the hospital)<br />
 *chol*: serum cholestoral in mg/dl<br />
+*fbs*: (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)<br />
 
 
 
