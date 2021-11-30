@@ -32,7 +32,7 @@ Data Source: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Hea
 *exang*: exercise induced angina (1 = yes; 0 = no)<br />*exang*: exercise induced angina (1 = yes; 0 = no)<br />
 *oldpeak*: ST depression induced by exercise relative to rest<br />
 *slope*: the slope of the peak exercise ST segment<br />
-
+*ca*: number of major vessels (0-3) colored by flourosopy<br />
 
 
 
