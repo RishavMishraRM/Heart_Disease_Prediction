@@ -33,7 +33,7 @@ Data Source: [Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Hea
 *oldpeak*: ST depression induced by exercise relative to rest<br />
 *slope*: the slope of the peak exercise ST segment<br />
 *ca*: number of major vessels (0-3) colored by flourosopy<br />
-
+*thal*: thalassemia (1 = normal; 2 = fixed defect; 3 = reversable defect)<br />
 
 
 
